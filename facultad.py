@@ -15,4 +15,4 @@ else:
     situacion = "Aprobado"
 
 # Mostrar si aprobó
-
+print("La situación del estudiante es:",situacion)
